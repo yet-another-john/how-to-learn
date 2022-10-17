@@ -76,7 +76,7 @@
 .header__square-pic {
   right: 0;
   top: 64px;
-  position: absolute;  
+  position: absolute;
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
@@ -109,7 +109,7 @@
 }
 
 .two-columns__main-text {
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
   display: flex;
   gap: 30px;
@@ -252,7 +252,7 @@
   padding-top: 90px;
   padding-bottom: 90px;
   position: relative;
-  overflow: hidden
+  overflow: hidden;
 }
 
 .kaufman__background {
