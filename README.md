@@ -1,1 +1,1 @@
-How to learn
+How To Learn
